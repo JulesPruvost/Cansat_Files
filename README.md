@@ -8,8 +8,11 @@ Our socials:
 - https://www.facebook.com/profile.php?id=100087080625989
 - https://www.instagram.com/aether2022_2023/
 
-Current files: (These files contain all the code for transmitting/receiving data between the Teensy and the Pico)
+Current files: 
+(These files contain all the code for transmitting/receiving data between the Teensy and the Pico)
 - Pico-Ground-Station.ino 
 - Cansat_Teensy.ino
+(This code will later be merged with Pico-Ground-Station, currently just used to make the sensors that we are using work)
+- Teensy_Sensors.ino
 
 Developed and coded by Jules Pruvost
