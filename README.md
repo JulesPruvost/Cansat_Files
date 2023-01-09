@@ -7,8 +7,7 @@ We will be trying to achieve a guided cansat using an advanced parachute. Our sy
 https://www.facebook.com/profile.php?id=100087080625989
 https://www.instagram.com/aether2022_2023/
 
-Current files:
-// These files contain all the code for transmitting/receiving data between the Teensy and the Pico
-Pico-Ground-Station.ino 
-Cansat_Teensy.ino
+Current files: (These files contain all the code for transmitting/receiving data between the Teensy and the Pico)
+- Pico-Ground-Station.ino 
+- Cansat_Teensy.ino
 
