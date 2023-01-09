@@ -11,6 +11,7 @@ Our socials:
 The following files contain all the code for transmitting/receiving data between the Teensy and the Pico:
 - Pico-Ground-Station.ino 
 - Cansat_Teensy.ino
+
 The following file will later be merged with Pico-Ground-Station, currently just used to make the sensors that we are using work:
 - Teensy_Sensors.ino
 
