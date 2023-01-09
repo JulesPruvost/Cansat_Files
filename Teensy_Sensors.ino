@@ -1,3 +1,21 @@
+/*
+    The name is Cansat Aether Files and it makes our cansat have a connection between us on the ground and the cansat that will be going in the air. 
+    Copyright (C) 2023  Jules Pruvost
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+
 #include <Wire.h>
 #include <Adafruit_LIS3MDL.h> // 0x1C
 #include <Adafruit_Sensor.h>
