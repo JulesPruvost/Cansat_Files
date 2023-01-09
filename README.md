@@ -11,3 +11,4 @@ Current files: (These files contain all the code for transmitting/receiving data
 - Pico-Ground-Station.ino 
 - Cansat_Teensy.ino
 
+Developed and coded by Jules Pruvost
